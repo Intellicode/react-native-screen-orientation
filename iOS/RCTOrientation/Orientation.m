@@ -3,7 +3,7 @@
 //
 
 #import "Orientation.h"
-#import <React/RCTEventDispatcher.h>
+#import "RCTEventDispatcher.h"
 
 @implementation Orientation
 @synthesize bridge = _bridge;
