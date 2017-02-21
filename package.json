@@ -1,6 +1,6 @@
 {
-  "name": "react-native-orientation",
-  "version": "1.17.2",
+  "name": "react-native-screen-orientation",
+  "version": "1.0.0",
   "description": "Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "peerDependencies": {
     "react-native": ">=0.5"
   },
-  "author": "Yamill Vallecillo <yamill@gmail.com> (github.com/yamill)",
+  "author": "Yamill Vallecillo <yamill@gmail.com> (github.com/yamill) + 8fit",
   "license": "ISC",
   "repository": {
     "type": "git",
