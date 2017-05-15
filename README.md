@@ -1,4 +1,6 @@
 ## react-native-orientation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Intellicode/react-native-screen-orientation.svg)](https://greenkeeper.io/)
 Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.
 
 ### Installation
