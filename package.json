@@ -1,6 +1,6 @@
 {
   "name": "react-native-screen-orientation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis",
   "main": "index.js",
   "scripts": {
